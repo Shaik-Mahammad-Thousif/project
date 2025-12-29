@@ -4,3 +4,4 @@ df -h
 free -h
 nproc 
 ps -ef
+touch shell2.txt
